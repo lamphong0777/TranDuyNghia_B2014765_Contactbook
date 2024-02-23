@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamphong0777/TranDuyNghia_B2014765_Contactbook.git"
+  },
+  "author": "TranDuyNghia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamphong0777/TranDuyNghia_B2014765_Contactbook/issues"
+  },
+  "homepage": "https://github.com/lamphong0777/TranDuyNghia_B2014765_Contactbook#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
