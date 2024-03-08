@@ -19,7 +19,8 @@
   "homepage": "https://github.com/lamphong0777/TranDuyNghia_B2014765_Contactbook#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^6.4.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
